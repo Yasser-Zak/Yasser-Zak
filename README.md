@@ -7,7 +7,7 @@
 
 
 - 🌱 I’m currently studing `React`
-- 📫 How to reach me **yasserzico1@gmail.com**
+- 📫 How to reach me **yasserzico1@gmail.com*
 
 
 <h3 align="left">Languages and Tools:</h3>
